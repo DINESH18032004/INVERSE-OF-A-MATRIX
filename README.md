@@ -41,7 +41,7 @@ print(inverse)
 
 ## Output:
 
-![1c](https://user-images.githubusercontent.com/119477784/228266571-27753637-4634-4668-867d-d47e4df38c7c.png)
+![1c maths2](https://user-images.githubusercontent.com/119477784/228267178-bd9adb9d-32bc-4bf7-ad4e-61811cf70fa9.png)
 
 
 ## Result:
